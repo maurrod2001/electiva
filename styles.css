@@ -1,0 +1,32 @@
+body {
+    background-color: aquamarine;
+}
+
+.il {
+    display: inline-block;
+    color: blue;
+}
+
+.bu {
+    color: green;
+    display: inline-block;
+}
+
+p {
+    color: rgb(9, 55, 148);
+}
+
+b {
+font-size:  19px;
+}
+i{
+    background-color: black;
+    color: white;
+}
+h1,h2{
+    color: red
+    ;
+}
+.nj{
+line-height: 9%;
+}
